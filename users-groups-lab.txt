@@ -1,3 +1,0 @@
-git add .
-git commit -m "Add completed Users & Groups Lab answers"
-git push
